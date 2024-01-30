@@ -26,7 +26,7 @@
   padding: 30px;
   border-radius: 8px;
   background-color: white;
-  border: 9px outset #ad5aff;
+  border: 9px inset #ad5aff;
 }
 .btn-grad {
   background-image: linear-gradient(
