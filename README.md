@@ -4,6 +4,7 @@ En este programa se crearon los componente titulo y formulario con backgrounds d
 
 # Vista Previa
 
+![image](https://github.com/mauroarms/tpReactEjer8/assets/95541436/560cce75-2efc-4daa-a381-c6a03f10b6bb)
 
 
 ## Tecnologias
